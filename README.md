@@ -48,14 +48,14 @@ High-temp filaments include:
 It is not recommended to print abrasive filament on the AnkerMake m5 at this time due to its extrude, hotend, and nozzle construction. 
 
 ## Accessing Print Profiles and WebUI.
-AnkerMake Studio has been pre-configured on the designated 3D printing computer at Spark Studio. It provides easy slicing, as well as file transfer and remote print monitoring via their UI, eliminating the need for SD cards or USB drives. Though if you want to utilize the slicer from your own computer, you will need a USB Flash drive to transfer g-code files. The USB port on the printer is a Type-C port, though a C to A adapter should be installed in the printer
+AnkerMake Studio has been pre-configured on the designated 3D printing computer at Spark Studio. It provides easy slicing, as well as file transfer and remote print monitoring via their UI, eliminating the need for SD cards or USB drives. Though if you want to utilize the slicer from your own computer, you will need a USB Flash drive to transfer g-code files. The USB port on the printer is a Type-C port, though a C to A adapter should be installed in the printer.
+
+Orca Slicer is another recommended slicer for the AnkerMake m5. It has been pre-configured on the designated 3D printing computer as well. It's G-Code Output will need to be transferred to the printer via a USB Flash Drive.
 
 ## AnkerMake Studio Credentials
 AnkerMake Studio utilizes an authentication system that does not allow multiple users to be logged in at the same time via the desktop app. For this reason, the Login Credentials for AnkerMake Studio will only be shared with authorized users, with the understanding that it is only to be used with the mobile app with the purpose of monitoring prints while not in the space.
 
--Interfering with another user's prints either in any way may result in revocation of access to 3d printing equipment at Spark Studio Salem.-
-
-AnkerMake Studio allows for monitoring and controlling print jobs via an application interface. The AnkerMake m5 profile can be accessed from AnkerMake Studio and sent to the printer wirelessly. AnkerMake Studio can also be downloaded and configured on personal computers if preferred.
+-Interfering with another user's prints either in any way may result in revocation of access to 3d printing equipment at Spark Studio Salem.
 
 ## Preparing the Printer for Print Jobs and Removing Prints
 Before printing, the build surface must be properly prepared. The AnkerMake m5 uses a removable magnetic build plate that may need coating with glue stick or hairspray, depending on the filament being used. The bed is made of PEI Coated spring steel.
